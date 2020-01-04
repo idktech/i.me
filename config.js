@@ -9,7 +9,7 @@ var counter = {
 	//
 	// OPTIONS:"January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"
 
-	setMonth: 'December',
+	setMonth: 'March',
 
 
 
@@ -25,7 +25,7 @@ var counter = {
 	// --------
 	// SET YEAR : INTEGER
 
-	setYear: 2019
+	setYear: 2020
 }
 
 
